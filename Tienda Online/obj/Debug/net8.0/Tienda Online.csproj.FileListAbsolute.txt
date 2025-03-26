@@ -1,0 +1,14 @@
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\bin\Debug\net8.0\Tienda Online.exe
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\bin\Debug\net8.0\Tienda Online.deps.json
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\bin\Debug\net8.0\Tienda Online.runtimeconfig.json
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\bin\Debug\net8.0\Tienda Online.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\bin\Debug\net8.0\Tienda Online.pdb
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\obj\Debug\net8.0\Tienda Online.GeneratedMSBuildEditorConfig.editorconfig
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\obj\Debug\net8.0\Tienda Online.AssemblyInfoInputs.cache
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\obj\Debug\net8.0\Tienda Online.AssemblyInfo.cs
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\obj\Debug\net8.0\Tienda Online.csproj.CoreCompileInputs.cache
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\obj\Debug\net8.0\Tienda Online.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\obj\Debug\net8.0\refint\Tienda Online.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\obj\Debug\net8.0\Tienda Online.pdb
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\obj\Debug\net8.0\Tienda Online.genruntimeconfig.cache
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\obj\Debug\net8.0\ref\Tienda Online.dll
