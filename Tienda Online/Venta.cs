@@ -8,6 +8,7 @@ using System.Threading.Tasks;
 
 namespace Tienda_Online
 {   
+
     class Venta
     {
         private List<Producto> productosvendidos;
@@ -59,7 +60,7 @@ namespace Tienda_Online
             Console.Write(pago.Totalapagar(productosacomprar));
             Console.WriteLine();
             Console.WriteLine("1.Confirmar venta    2.Cancelar venta");
-            int opcion = Convert.ToInt32(Console.ReadLine());
+            int opcion = new Errores().cin();
             if (opcion == 1)
             {
                 List<Producto> productosavender = new List<Producto>();

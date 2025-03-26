@@ -24,7 +24,7 @@ namespace Tienda_Online
             Console.WriteLine("Ingrese su tipo de usuario");
             Console.WriteLine("1. Administrador       2.Usuario      3.Salir");
             int entrada;
-            entrada = Convert.ToInt32(Console.ReadLine());
+            entrada = new Errores().cin();
                 if (entrada == 1)
                 {
                     while (true)
@@ -32,7 +32,7 @@ namespace Tienda_Online
                         Console.Clear();
                         Console.WriteLine("ADMINISTRADOR");
                         Console.WriteLine("1. Iniciar sesion    2. regresar");
-                        int entrada2 = Convert.ToInt32(Console.ReadLine());
+                        int entrada2 = new Errores().cin();
                         if (entrada2 == 1)
                         {
                             foreach (Admin admin in admins)
@@ -77,7 +77,7 @@ namespace Tienda_Online
                     Console.Clear();
                     Console.WriteLine("Usuario");
                     Console.WriteLine("1.Iniciar sesion    2.Crear cuenta   3.Regresar");
-                    int entrada2 = Convert.ToInt32(Console.ReadLine());
+                    int entrada2 = new Errores().cin();
                         if(entrada2 == 1)
                         {
                             if (usuarios.Count() == 0)

@@ -52,7 +52,7 @@ namespace Tienda_Online
             while (true) { 
             Console.WriteLine("Bienvenido " + usuario.nombre);
             Console.WriteLine("1.Editar usuario    2.Comprar    3.Salir");
-            int opcion = Convert.ToInt32(Console.ReadLine());
+            int opcion = new Errores().cin();
             if (opcion == 1)
             {
                 while (true)
@@ -65,7 +65,7 @@ namespace Tienda_Online
 
                     Console.WriteLine("ingrese que quiere cambiar");
                     Console.WriteLine("1.Nombre    2.Apellido    3.nada");
-                    int opciointe = Convert.ToInt32(Console.ReadLine());
+                    int opciointe = new Errores().cin();
                     string entrada;
                     if (opciointe == 1)
                     {

@@ -7,6 +7,8 @@ using System.Threading.Tasks;
 
 namespace Tienda_Online
 {
+
+
      class Admin : Usuario
     {
         private string usuario;
@@ -60,7 +62,7 @@ namespace Tienda_Online
         {   Console.Clear();
             Console.WriteLine("Bienvenido " + admin.obtenerNombre());
             Console.WriteLine("1.Modo admin      2.Modo usuario      3.Salir");
-            int entrada = Convert.ToInt32(Console.ReadLine());
+            int entrada = new Errores().cin();
             return entrada;
         }
         public void pantallaadmin(Admin admin, ref Inventario inventario, ref Usuarios usuarios, Venta venta, Pagos pago)
@@ -71,7 +73,7 @@ namespace Tienda_Online
                 Console.WriteLine("Bienvenido " + admin.obtenerNombre());
                 Console.WriteLine("1.Agregar producto    2.Eliminar producto    3.Editar producto    4.Agregar categoria    5.Eliminar categoria    6.Editar categoria   ");
                 Console.WriteLine("7.Agregar productos a categoria    8.Crear Usuario admin      9.Mostrar Usuarios      10.Reportes      11.stock      12.salir");
-                int entrada = Convert.ToInt32(Console.ReadLine());
+                int entrada = new Errores().cin();
                 if (entrada == 1)
                 {
                     Console.Clear();
@@ -82,7 +84,7 @@ namespace Tienda_Online
                     Console.WriteLine("Ingrese el codigo del producto");
                     string codigo = Console.ReadLine();
                     Console.WriteLine("Ingrese el precio del producto");
-                    int precio = Convert.ToInt32(Console.ReadLine());
+                    int precio = new Errores().cin();
                     Producto producto = new Producto(nombre, codigo, precio);
                     inventario.agregarproductoenproductos(producto);
                 }
@@ -114,7 +116,7 @@ namespace Tienda_Online
                     Console.WriteLine("Ingrese el nuevo codigo del producto");
                     string nuevocodigo = Console.ReadLine();
                     Console.WriteLine("Ingrese el nuevo precio del producto");
-                    int nuevoprecio = Convert.ToInt32(Console.ReadLine());
+                    int nuevoprecio = new Errores().cin();
                     Producto nuevoproducto = new Producto(nuevonombre, nuevocodigo, nuevoprecio);
                     inventario.editarproductoenproductos(producto, nuevoproducto);
                 }

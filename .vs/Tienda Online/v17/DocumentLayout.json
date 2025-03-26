@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\Tienda Online\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{2D5C8D3D-3BD8-47D5-927E-915426FF3019}|Tienda Online\\Tienda Online.csproj|d:\\josue\\aaprogramacion\\programacion ii\\visual studio\\tienda online\\tienda online\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{2D5C8D3D-3BD8-47D5-927E-915426FF3019}|Tienda Online\\Tienda Online.csproj|solutionrelative:tienda online\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{2D5C8D3D-3BD8-47D5-927E-915426FF3019}|Tienda Online\\Tienda Online.csproj|d:\\josue\\aaprogramacion\\programacion ii\\visual studio\\tienda online\\tienda online\\errores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2D5C8D3D-3BD8-47D5-927E-915426FF3019}|Tienda Online\\Tienda Online.csproj|solutionrelative:tienda online\\errores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -19,14 +19,14 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Producto.cs",
-              "DocumentMoniker": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\Tienda Online\\Tienda Online\\Producto.cs",
-              "RelativeDocumentMoniker": "Tienda Online\\Producto.cs",
-              "ToolTip": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\Tienda Online\\Tienda Online\\Producto.cs",
-              "RelativeToolTip": "Tienda Online\\Producto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACwAAAAAAAAAAAAAAA==",
+              "Title": "Errores.cs",
+              "DocumentMoniker": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\Tienda Online\\Tienda Online\\Errores.cs",
+              "RelativeDocumentMoniker": "Tienda Online\\Errores.cs",
+              "ToolTip": "D:\\josue\\AAprogramacion\\PROGRAMACION II\\VISUAL STUDIO\\Tienda Online\\Tienda Online\\Errores.cs",
+              "RelativeToolTip": "Tienda Online\\Errores.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABIAAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-03-26T13:29:00.815Z",
+              "WhenOpened": "2025-03-26T21:58:38.02Z",
               "EditorCaption": ""
             }
           ]

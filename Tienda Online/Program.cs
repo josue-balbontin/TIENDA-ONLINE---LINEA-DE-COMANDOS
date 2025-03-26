@@ -5,6 +5,8 @@ internal class Program
 {
     private static void Main(string[] args)
     {
+        
+
         Inventario inventario = new Inventario();
 
         inventario.agregarproductoenproductos(new Producto("Samsung Galaxy", "5678910", 150));

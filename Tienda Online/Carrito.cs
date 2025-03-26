@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Tienda_Online
 {
+
     class Carrito
     {
         private List<Producto> productosacomprar;
@@ -44,7 +45,7 @@ namespace Tienda_Online
                     Console.Write(" | ");
                 }
                 Console.WriteLine("\n1.Agregar producto al carrito    2.Eliminar producto del carrito    3.Vaciar carrito    4.Comprar    5.Salir");
-                 int opcion = Convert.ToInt32(Console.ReadLine());
+                 int opcion = new Errores().cin();
                
                 if (opcion == 1)
                 {

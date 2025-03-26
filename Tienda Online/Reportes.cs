@@ -6,6 +6,7 @@ using System.Threading.Tasks;
 
 namespace Tienda_Online
 {
+
     class Reportes
     {
         public void CrearReporte(Venta venta,Pagos total) 

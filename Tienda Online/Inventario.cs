@@ -7,6 +7,7 @@ using System.Threading.Tasks;
 
 namespace Tienda_Online
 {
+
     class Inventario
     {
         private Dictionary<string, List<Producto>> Categoria;

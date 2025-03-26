@@ -12,3 +12,4 @@ D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Onlin
 D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\obj\Debug\net8.0\Tienda Online.pdb
 D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\obj\Debug\net8.0\Tienda Online.genruntimeconfig.cache
 D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\obj\Debug\net8.0\ref\Tienda Online.dll
+D:\josue\AAprogramacion\PROGRAMACION II\VISUAL STUDIO\Tienda Online\Tienda Online\obj\Debug\net8.0\Tienda Online.sourcelink.json
